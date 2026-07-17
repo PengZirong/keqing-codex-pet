@@ -2,8 +2,6 @@
 
 用于 Codex `/pet` 的刻晴人形 SD 动画角色包。
 
-![刻晴 Codex Pet 动画总览](contact-sheet.png)
-
 <p align="center">
   <img src="previews/idle.gif" width="180" alt="待机动画">
   <img src="previews/running-right.gif" width="180" alt="奔跑动画">
