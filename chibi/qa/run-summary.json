@@ -1,16 +1,14 @@
 {
   "ok": true,
   "spriteVersionNumber": 2,
-  "run_dir": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run",
-  "spritesheet": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/final/spritesheet-extended.webp",
-  "validation": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/final/validation-extended.json",
-  "chroma_despill": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/qa/chroma-despill-extended.json",
-  "contact_sheet": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/qa/contact-sheet-extended.png",
-  "direction_sheet": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/qa/look-directions.png",
-  "direction_semantics": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/qa/direction-semantics.json",
-  "blind_direction_validation": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/qa/direction-blind-validation.json",
-  "blind_review_resolution": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/qa/blind-review-resolution.json",
-  "continuity": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/qa/look-continuity.json",
-  "review": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/qa/review.json",
-  "package": "/Users/pengzirong/.codex/pets/keqing-chibi"
+  "package": "chibi",
+  "spritesheet": "chibi/spritesheet.webp",
+  "validation": "chibi/validation.json",
+  "contact_sheet": "chibi/qa/contact-sheet.png",
+  "direction_sheet": "chibi/qa/look-directions.png",
+  "direction_semantics": "chibi/qa/direction-semantics.json",
+  "blind_direction_validation": "chibi/qa/direction-blind-validation.json",
+  "continuity": "chibi/qa/look-continuity.json",
+  "review": "chibi/qa/review.json",
+  "final_visual_qa": "chibi/qa/final-visual-qa.json"
 }

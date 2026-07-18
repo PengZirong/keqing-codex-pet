@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames",
+  "frames_root": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames",
   "states": [
     "idle",
     "running-right",
@@ -26,93 +26,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/idle/00.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/idle/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17157,
+          "nontransparent_pixels": 25997,
           "bbox": [
-            23,
             5,
-            169,
+            5,
+            186,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 204
+          "chroma_adjacent_pixels": 456
         },
         {
           "index": 1,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/idle/01.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/idle/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16887,
+          "nontransparent_pixels": 25724,
           "bbox": [
-            24,
+            8,
             5,
-            167,
+            184,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 256
+          "chroma_adjacent_pixels": 427
         },
         {
           "index": 2,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/idle/02.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/idle/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16913,
+          "nontransparent_pixels": 25777,
           "bbox": [
-            23,
+            7,
             5,
-            169,
+            185,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 184
+          "chroma_adjacent_pixels": 458
         },
         {
           "index": 3,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/idle/03.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/idle/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17137,
+          "nontransparent_pixels": 25017,
           "bbox": [
-            23,
+            9,
             5,
-            169,
+            183,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 194
+          "chroma_adjacent_pixels": 484
         },
         {
           "index": 4,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/idle/04.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/idle/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16999,
+          "nontransparent_pixels": 25385,
           "bbox": [
-            23,
+            8,
             5,
-            169,
+            184,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 212
+          "chroma_adjacent_pixels": 455
         },
         {
           "index": 5,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/idle/05.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/idle/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17100,
+          "nontransparent_pixels": 26022,
           "bbox": [
-            22,
+            7,
             5,
-            169,
+            185,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 200
+          "chroma_adjacent_pixels": 465
         }
       ]
     },
@@ -127,10 +127,10 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running-right/00.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running-right/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18438,
+          "nontransparent_pixels": 22930,
           "bbox": [
             5,
             5,
@@ -138,112 +138,112 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 790
+          "chroma_adjacent_pixels": 596
         },
         {
           "index": 1,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running-right/01.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running-right/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17114,
+          "nontransparent_pixels": 22121,
           "bbox": [
-            18,
             5,
-            173,
-            203
+            9,
+            187,
+            199
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 689
+          "chroma_adjacent_pixels": 513
         },
         {
           "index": 2,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running-right/02.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running-right/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17740,
+          "nontransparent_pixels": 20942,
           "bbox": [
-            8,
+            9,
             5,
-            184,
+            183,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 740
+          "chroma_adjacent_pixels": 484
         },
         {
           "index": 3,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running-right/03.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running-right/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17568,
+          "nontransparent_pixels": 19404,
           "bbox": [
-            16,
             5,
-            176,
-            203
+            12,
+            187,
+            196
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 663
+          "chroma_adjacent_pixels": 489
         },
         {
           "index": 4,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running-right/04.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running-right/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17562,
+          "nontransparent_pixels": 20706,
           "bbox": [
-            13,
+            11,
             5,
-            179,
+            181,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 756
+          "chroma_adjacent_pixels": 635
         },
         {
           "index": 5,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running-right/05.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running-right/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16402,
+          "nontransparent_pixels": 22391,
           "bbox": [
-            17,
             5,
-            174,
-            203
+            8,
+            187,
+            199
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 644
+          "chroma_adjacent_pixels": 535
         },
         {
           "index": 6,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running-right/06.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running-right/06.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17884,
+          "nontransparent_pixels": 22047,
           "bbox": [
-            13,
             5,
-            178,
+            5,
+            186,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 772
+          "chroma_adjacent_pixels": 674
         },
         {
           "index": 7,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running-right/07.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running-right/07.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17247,
+          "nontransparent_pixels": 21320,
           "bbox": [
-            16,
+            9,
             5,
-            175,
+            183,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 712
+          "chroma_adjacent_pixels": 703
         }
       ]
     },
@@ -258,100 +258,85 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running-left/00.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running-left/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18215,
+          "nontransparent_pixels": 18929,
           "bbox": [
-            10,
+            16,
             5,
-            182,
+            175,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 777
+          "chroma_adjacent_pixels": 417
         },
         {
           "index": 1,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running-left/01.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running-left/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18021,
+          "nontransparent_pixels": 18125,
           "bbox": [
-            14,
+            17,
             5,
-            178,
+            174,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 697
+          "chroma_adjacent_pixels": 390
         },
         {
           "index": 2,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running-left/02.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running-left/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18886,
+          "nontransparent_pixels": 18527,
           "bbox": [
+            15,
             5,
-            5,
-            186,
+            176,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 787
+          "chroma_adjacent_pixels": 384
         },
         {
           "index": 3,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running-left/03.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running-left/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 20056,
+          "nontransparent_pixels": 18512,
           "bbox": [
+            16,
             5,
-            5,
-            187,
-            202
+            176,
+            203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 786
+          "chroma_adjacent_pixels": 357
         },
         {
           "index": 4,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running-left/04.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running-left/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17518,
+          "nontransparent_pixels": 18069,
           "bbox": [
-            15,
+            16,
             5,
-            176,
+            175,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 687
+          "chroma_adjacent_pixels": 362
         },
         {
           "index": 5,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running-left/05.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running-left/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18262,
-          "bbox": [
-            11,
-            5,
-            181,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 685
-        },
-        {
-          "index": 6,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running-left/06.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 17623,
+          "nontransparent_pixels": 19089,
           "bbox": [
             15,
             5,
@@ -359,22 +344,37 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 703
+          "chroma_adjacent_pixels": 426
         },
         {
-          "index": 7,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running-left/07.png",
+          "index": 6,
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running-left/06.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18544,
+          "nontransparent_pixels": 18180,
           "bbox": [
-            11,
+            15,
             5,
-            181,
+            176,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 737
+          "chroma_adjacent_pixels": 381
+        },
+        {
+          "index": 7,
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18027,
+          "bbox": [
+            17,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 404
         }
       ]
     },
@@ -389,63 +389,63 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/waving/00.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/waving/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18541,
+          "nontransparent_pixels": 25580,
           "bbox": [
-            15,
             5,
-            176,
-            203
+            7,
+            187,
+            200
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 63
+          "chroma_adjacent_pixels": 298
         },
         {
           "index": 1,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/waving/01.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/waving/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17915,
+          "nontransparent_pixels": 25658,
           "bbox": [
-            14,
             5,
-            177,
-            203
+            7,
+            187,
+            200
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 65
+          "chroma_adjacent_pixels": 288
         },
         {
           "index": 2,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/waving/02.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/waving/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17465,
+          "nontransparent_pixels": 25872,
           "bbox": [
-            20,
             5,
-            171,
-            203
+            7,
+            187,
+            200
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 67
+          "chroma_adjacent_pixels": 296
         },
         {
           "index": 3,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/waving/03.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/waving/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18364,
+          "nontransparent_pixels": 25933,
           "bbox": [
-            16,
             5,
-            176,
-            203
+            7,
+            187,
+            201
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 83
+          "chroma_adjacent_pixels": 304
         }
       ]
     },
@@ -460,78 +460,78 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/jumping/00.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/jumping/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 19199,
+          "nontransparent_pixels": 20667,
           "bbox": [
-            11,
             5,
-            181,
-            203
+            21,
+            187,
+            186
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 396
+          "chroma_adjacent_pixels": 300
         },
         {
           "index": 1,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/jumping/01.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/jumping/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16851,
+          "nontransparent_pixels": 17774,
           "bbox": [
-            19,
             5,
-            173,
-            203
+            28,
+            187,
+            179
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 295
+          "chroma_adjacent_pixels": 238
         },
         {
           "index": 2,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/jumping/02.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/jumping/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16173,
+          "nontransparent_pixels": 17786,
           "bbox": [
-            21,
             5,
-            171,
-            203
+            30,
+            187,
+            177
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 283
+          "chroma_adjacent_pixels": 258
         },
         {
           "index": 3,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/jumping/03.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/jumping/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16427,
+          "nontransparent_pixels": 17956,
           "bbox": [
-            21,
             5,
-            171,
-            203
+            28,
+            187,
+            180
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 276
+          "chroma_adjacent_pixels": 269
         },
         {
           "index": 4,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/jumping/04.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/jumping/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 19115,
+          "nontransparent_pixels": 19755,
           "bbox": [
-            11,
             5,
-            180,
-            203
+            23,
+            187,
+            185
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 402
+          "chroma_adjacent_pixels": 306
         }
       ]
     },
@@ -546,123 +546,123 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/failed/00.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/failed/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15584,
+          "nontransparent_pixels": 23401,
           "bbox": [
-            33,
+            17,
             5,
-            158,
+            175,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 327
+          "chroma_adjacent_pixels": 470
         },
         {
           "index": 1,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/failed/01.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/failed/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15521,
+          "nontransparent_pixels": 24591,
           "bbox": [
-            33,
+            16,
             5,
-            158,
+            176,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 334
+          "chroma_adjacent_pixels": 558
         },
         {
           "index": 2,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/failed/02.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/failed/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16066,
+          "nontransparent_pixels": 25724,
           "bbox": [
-            32,
+            16,
             5,
-            159,
+            175,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 348
+          "chroma_adjacent_pixels": 557
         },
         {
           "index": 3,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/failed/03.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/failed/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16701,
+          "nontransparent_pixels": 25863,
           "bbox": [
-            33,
+            15,
             5,
-            158,
+            176,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 388
+          "chroma_adjacent_pixels": 538
         },
         {
           "index": 4,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/failed/04.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/failed/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16052,
+          "nontransparent_pixels": 27996,
           "bbox": [
-            33,
             5,
-            158,
-            203
+            6,
+            187,
+            202
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 338
+          "chroma_adjacent_pixels": 625
         },
         {
           "index": 5,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/failed/05.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/failed/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16120,
+          "nontransparent_pixels": 23462,
           "bbox": [
-            34,
+            21,
             5,
-            157,
+            171,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 346
+          "chroma_adjacent_pixels": 521
         },
         {
           "index": 6,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/failed/06.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/failed/06.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16369,
+          "nontransparent_pixels": 22265,
           "bbox": [
-            35,
+            22,
             5,
-            156,
+            169,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 315
+          "chroma_adjacent_pixels": 489
         },
         {
           "index": 7,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/failed/07.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/failed/07.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15495,
+          "nontransparent_pixels": 23964,
           "bbox": [
-            35,
+            17,
             5,
-            156,
+            175,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 359
+          "chroma_adjacent_pixels": 544
         }
       ]
     },
@@ -677,93 +677,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/waiting/00.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/waiting/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15799,
+          "nontransparent_pixels": 24511,
           "bbox": [
-            24,
+            8,
             5,
-            168,
+            183,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 112
+          "chroma_adjacent_pixels": 392
         },
         {
           "index": 1,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/waiting/01.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/waiting/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15216,
+          "nontransparent_pixels": 24407,
           "bbox": [
-            28,
+            11,
             5,
-            163,
+            181,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 151
+          "chroma_adjacent_pixels": 405
         },
         {
           "index": 2,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/waiting/02.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/waiting/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15172,
+          "nontransparent_pixels": 23289,
           "bbox": [
-            36,
+            14,
             5,
-            156,
+            178,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 129
+          "chroma_adjacent_pixels": 386
         },
         {
           "index": 3,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/waiting/03.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/waiting/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14529,
+          "nontransparent_pixels": 23832,
           "bbox": [
-            32,
+            13,
             5,
-            159,
+            178,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 126
+          "chroma_adjacent_pixels": 418
         },
         {
           "index": 4,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/waiting/04.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/waiting/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14455,
+          "nontransparent_pixels": 22922,
           "bbox": [
-            26,
+            14,
             5,
-            166,
+            177,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 135
+          "chroma_adjacent_pixels": 401
         },
         {
           "index": 5,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/waiting/05.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/waiting/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15584,
+          "nontransparent_pixels": 22791,
           "bbox": [
-            24,
+            15,
             5,
-            168,
+            176,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 145
+          "chroma_adjacent_pixels": 391
         }
       ]
     },
@@ -778,93 +778,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running/00.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15276,
+          "nontransparent_pixels": 25922,
           "bbox": [
-            25,
             5,
-            166,
-            203
+            8,
+            187,
+            200
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 138
+          "chroma_adjacent_pixels": 481
         },
         {
           "index": 1,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running/01.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15318,
+          "nontransparent_pixels": 26653,
           "bbox": [
-            26,
+            7,
             5,
-            166,
+            185,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 118
+          "chroma_adjacent_pixels": 486
         },
         {
           "index": 2,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running/02.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15111,
+          "nontransparent_pixels": 26534,
           "bbox": [
-            26,
             5,
-            165,
-            203
+            5,
+            187,
+            202
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 121
+          "chroma_adjacent_pixels": 457
         },
         {
           "index": 3,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running/03.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15267,
+          "nontransparent_pixels": 26898,
           "bbox": [
-            26,
             5,
-            166,
+            5,
+            187,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 130
+          "chroma_adjacent_pixels": 502
         },
         {
           "index": 4,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running/04.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15148,
+          "nontransparent_pixels": 26677,
           "bbox": [
-            25,
             5,
-            166,
+            5,
+            186,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 135
+          "chroma_adjacent_pixels": 478
         },
         {
           "index": 5,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/running/05.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/running/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15315,
+          "nontransparent_pixels": 26721,
           "bbox": [
-            25,
             5,
-            167,
-            203
+            5,
+            187,
+            202
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 151
+          "chroma_adjacent_pixels": 469
         }
       ]
     },
@@ -879,93 +879,93 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/review/00.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/review/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16116,
+          "nontransparent_pixels": 26103,
           "bbox": [
-            24,
+            6,
             5,
-            167,
+            185,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 167
+          "chroma_adjacent_pixels": 427
         },
         {
           "index": 1,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/review/01.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/review/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16437,
+          "nontransparent_pixels": 25933,
           "bbox": [
-            27,
+            8,
             5,
-            164,
+            184,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 188
+          "chroma_adjacent_pixels": 403
         },
         {
           "index": 2,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/review/02.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/review/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16080,
+          "nontransparent_pixels": 25255,
           "bbox": [
-            30,
+            9,
             5,
-            161,
+            182,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 169
+          "chroma_adjacent_pixels": 444
         },
         {
           "index": 3,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/review/03.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/review/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16459,
+          "nontransparent_pixels": 22710,
           "bbox": [
-            26,
+            13,
             5,
-            165,
+            178,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 298
+          "chroma_adjacent_pixels": 380
         },
         {
           "index": 4,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/review/04.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/review/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 16187,
+          "nontransparent_pixels": 23541,
           "bbox": [
-            29,
+            14,
             5,
-            162,
+            178,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 154
+          "chroma_adjacent_pixels": 400
         },
         {
           "index": 5,
-          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi/run/frames/review/05.png",
+          "file": "/Users/pengzirong/Documents/Codex/2026-07-17/sites-plugin-sites-openai-bundled/work/keqing-chibi-q/run/frames/review/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15955,
+          "nontransparent_pixels": 25798,
           "bbox": [
-            25,
+            7,
             5,
-            166,
+            185,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 129
+          "chroma_adjacent_pixels": 453
         }
       ]
     }

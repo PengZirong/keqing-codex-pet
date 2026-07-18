@@ -10,7 +10,7 @@
 
 ## 萌版（推荐）
 
-大头短身、紫晶大眼的 Q 版刻晴，采用 Codex Pet v2 图集并支持 16 个注视方向。
+约 1.6–1.8 头身、紫晶大眼与极短手脚的 Q 版刻晴，采用 Codex Pet v2 图集并支持 16 个注视方向。
 
 ```bash
 mkdir -p ~/.codex/pets/keqing-chibi
