@@ -1,26 +1,29 @@
 # 刻晴 · Codex `/pet`
 
-用于 Codex `/pet` 的刻晴人形 SD 动画角色包。
+为 Codex `/pet` 制作的刻晴人形动画角色，包含萌版与经典版。
 
 <p align="center">
-  <img src="previews/idle.gif" width="180" alt="待机动画">
-  <img src="previews/running-right.gif" width="180" alt="奔跑动画">
-  <img src="previews/review.gif" width="180" alt="审查动画">
+  <img src="chibi/previews/idle.gif" width="180" alt="萌版待机动画">
+  <img src="chibi/previews/running-right.gif" width="180" alt="萌版奔跑动画">
+  <img src="chibi/previews/review.gif" width="180" alt="萌版审查动画">
 </p>
 
-## 安装
+## 萌版（推荐）
+
+大头短身、紫晶大眼的 Q 版刻晴，采用 Codex Pet v2 图集并支持 16 个注视方向。
+
+```bash
+mkdir -p ~/.codex/pets/keqing-chibi
+cp chibi/pet.json chibi/spritesheet.webp ~/.codex/pets/keqing-chibi/
+```
+
+## 经典版
 
 ```bash
 mkdir -p ~/.codex/pets/keqing
 cp pet.json spritesheet.webp ~/.codex/pets/keqing/
 ```
 
-然后在 Codex 中通过 `/pet` 选择「刻晴」。
-
-## 内容
-
-- 9 组动画：待机、左右奔跑、招手、跳跃、失败、等待、执行与审查
-- `1536 × 1872` 透明 WebP 图集
-- 动画预览与完整验收资料
+然后在 Codex 中通过 `/pet` 选择「刻晴·萌版」或「刻晴」。
 
 > 非官方同人项目。《原神》及刻晴相关权利归其权利人所有。

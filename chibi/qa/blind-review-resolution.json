@@ -1,0 +1,16 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "reviewed_by": "independent-final-visual-qa-worker",
+  "failed_checks": [
+    "vertical-7: 292.5 blind vertical vote was down instead of up",
+    "vertical-7: 247.5 blind vertical vote was up instead of down"
+  ],
+  "labeled_evidence": "在带标签的正常显示尺寸连续环路中，247.5 的左转与轻微下视仍构成左下，292.5 的左转与轻微抬眼仍构成左上；两者均未越过错误主象限，也没有方向反转。",
+  "continuity_evidence": "270 两侧的左向姿态连续，247.5→270→292.5 没有身份、比例、佩剑连接或基线跳变。",
+  "additional_reviewed_warnings": [
+    "157.5→180 的差异和中心位移较大，但最终视觉 QA 判定为可接受的姿态家族边界，而非明显跳帧",
+    "337.5→000 差异较大，但环路仍连续可读",
+    "透明孔洞指标来自头发、双腿与剑之间的自然负空间，不是身体内部破洞"
+  ]
+}
