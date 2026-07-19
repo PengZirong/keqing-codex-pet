@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "package": "variants/chibi",
+  "spritesheet": "variants/chibi/spritesheet.webp",
+  "validation": "variants/chibi/qa/validation.json",
+  "contact_sheet": "variants/chibi/qa/contact-sheet.png",
+  "direction_sheet": "variants/chibi/qa/look-directions.png",
+  "direction_semantics": "variants/chibi/qa/direction-semantics.json",
+  "blind_direction_validation": "variants/chibi/qa/direction-blind-validation.json",
+  "continuity": "variants/chibi/qa/look-continuity.json",
+  "review": "variants/chibi/qa/review.json",
+  "final_visual_qa": "variants/chibi/qa/final-visual-qa.json"
+}
